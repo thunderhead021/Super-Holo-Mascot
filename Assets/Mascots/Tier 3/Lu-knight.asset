@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Lu-knight
+  m_EditorClassIdentifier: 
+  id: 17
+  mascotName: Luknight
+  tier: 5
+  description: 'When the ally ahead receives lethal damage: @@@ (1) received the
+    damage in its stead @@@ (2) and half that damage  @@@ (3) and attack back'
+  playerArt: {fileID: 21300000, guid: 28bf0c0f87b06bf44811fed69e70fdd2, type: 3}
+  opoArt: {fileID: 21300000, guid: 24aff8c22fe309c408ad68b0363175c6, type: 3}
+  hp: 8
+  atk: 0
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 8256271824223329660, guid: 5ed30ff05b5b75c40bb3a44d5a6144bf, type: 3}
+  credit: https://twitter.com/kanzakihiro

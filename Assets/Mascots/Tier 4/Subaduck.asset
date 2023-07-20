@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Subaduck
+  m_EditorClassIdentifier: 
+  id: 8
+  mascotName: Subaduck
+  tier: 4
+  description: 'Start of battle: Push the first enemy 1/2/3 space back'
+  playerArt: {fileID: 21300000, guid: b74afd75b898c5845bdaed10d38f0841, type: 3}
+  opoArt: {fileID: 21300000, guid: 67c4f4c234c59824585b1155ccb4011f, type: 3}
+  hp: 6
+  atk: 4
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 5131536310891990105, guid: 3cd88f473ae570e4b80d747bd398688a, type: 3}
+  credit: https://twitter.com/KS_wktk

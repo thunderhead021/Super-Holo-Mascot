@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Zain
+  m_EditorClassIdentifier: 
+  id: 21
+  mascotName: Zain
+  tier: 5
+  description: 'Receive item: Give the two random allies +1/2/3 ATK and HP'
+  playerArt: {fileID: 21300000, guid: 4ab45207043ecd048b1904e0862448ac, type: 3}
+  opoArt: {fileID: 21300000, guid: 77b188f0552343948bc66f251467ddf6, type: 3}
+  hp: 8
+  atk: 3
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 2218482434767726428, guid: 515ce9dbcf518fd4989ed1e4761013dc, type: 3}
+  credit: 

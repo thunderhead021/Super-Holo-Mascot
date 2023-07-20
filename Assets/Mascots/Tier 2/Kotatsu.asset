@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Kotatsu
+  m_EditorClassIdentifier: 
+  id: 31
+  mascotName: Kontatsu
+  tier: 2
+  description: 'Start of shop: Gain 1/2/3 SC '
+  playerArt: {fileID: 21300000, guid: b612d7314b8837042970ed1a6ec39a6e, type: 3}
+  opoArt: {fileID: 21300000, guid: 707e392fc284eba4f9643baf9171d40e, type: 3}
+  hp: 3
+  atk: 1
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 5483496505204629791, guid: 83711f389a8b2d94c8c6289c1d8829c7, type: 3}
+  credit: https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w

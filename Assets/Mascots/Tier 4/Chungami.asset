@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Chungami
+  m_EditorClassIdentifier: 
+  id: 30
+  mascotName: Chungami
+  tier: 4
+  description: '(1)(2) Start of shop: Gain 1 Experience @@@ (3)Start of battle: Transform
+    into grow up Chungami  @@@  @@@ Grow up Chungami: Copy the stats of the ally
+    with the highest stats'
+  playerArt: {fileID: 21300000, guid: cee6e162ebf204e4693ed304be45b95f, type: 3}
+  opoArt: {fileID: 21300000, guid: 86ebdf3f1a5372d43b73ee410c70b77d, type: 3}
+  hp: 2
+  atk: 2
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 1686736349192723431, guid: 8c04997b99336dc4e8589ead36850eb4, type: 3}
+  credit: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA

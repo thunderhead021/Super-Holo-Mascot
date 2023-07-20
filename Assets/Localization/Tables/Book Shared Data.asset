@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Book Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Book
+  m_TableCollectionNameGuidString: 3981a3981eae62f4b8f76da4bf331213
+  m_Entries:
+  - m_Id: 2056666025984
+    m_Key: Items list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105659691008
+    m_Key: Mascots list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3412084723712
+    m_Key: Show items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3492321759232
+    m_Key: Show mascots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400662304722944
+    m_Key: Nekko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403195731447808
+    m_Key: KFP employee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403734347190272
+    m_Key: Chungami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 591189318897664
+    m_Key: Bloom & Gloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 597941011681280
+    m_Key: Haaton Head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598005826260992
+    m_Key: Rose Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598098960781312
+    m_Key: Takodachi Token
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604734395846656
+    m_Key: Apple
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663530908386

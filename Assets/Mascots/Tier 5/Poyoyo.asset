@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Poyoyo
+  m_EditorClassIdentifier: 
+  id: 6
+  mascotName: Poyoyo
+  tier: 5
+  description: 'Before ATK: Attack the enemy first. Works 1/2/3 time(s) per turn.'
+  playerArt: {fileID: 21300000, guid: 3d044eb073dd3ac4fa96fe42ffaf8529, type: 3}
+  opoArt: {fileID: 21300000, guid: e641ab2b3b68b1c47b21aa57e1436491, type: 3}
+  hp: 2
+  atk: 2
+  timeUseSkill: 3
+  cost: 3
+  skill: {fileID: 5521870877336080931, guid: 779c1c5f1107c9b4a87a5890c8148b92, type: 3}
+  credit: https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg

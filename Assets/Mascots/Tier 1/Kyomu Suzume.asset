@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Kyomu Suzume
+  m_EditorClassIdentifier: 
+  id: 48
+  mascotName: Kyomu Suzume
+  tier: 1
+  description: 'Start of battle: Gain +1/2/3 ATK and HP per ally with Faint ability'
+  playerArt: {fileID: 21300000, guid: e015330a0c3bfdb488ce5cee41b4eb66, type: 3}
+  opoArt: {fileID: 21300000, guid: c5cd082ade123f345a59faa6450b4f69, type: 3}
+  hp: 2
+  atk: 1
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 6774180928570366853, guid: 6351866c7cd80184cb2a1aedf0df7d99, type: 3}
+  credit: https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw

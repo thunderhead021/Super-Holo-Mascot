@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6c828a9d5c830644c89dda7e12db84ce, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 134785601536
+    m_Localized: Select a name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21956776235008
+    m_Localized: 'Number of friendly members: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22016209522688
+    m_Localized: 'Cost:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22056181239808
+    m_Localized: 'Sell:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22101886570496
+    m_Localized: take 3 additional damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22148485287936
+    m_Localized: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22184166232064
+    m_Localized: Add new effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22241829523456
+    m_Localized: 'Faint: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22289489399808
+    m_Localized: 'Start of battle: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22329402396672
+    m_Localized: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27702322597888
+    m_Localized: Block damage once
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31298137165824
+    m_Localized: To Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31357142634496
+    m_Localized: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31459429126144
+    m_Localized: Tiers unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32463084130304
+    m_Localized: Can't refresh with everything frozen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32496072331264
+    m_Localized: Not enough SC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32573331410944
+    m_Localized: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32610845265920
+    m_Localized: Need at least 1 mascot to start the battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800745009516544
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800801343213568
+    m_Localized: Database
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123378175479808
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2529391516651520
+    m_Localized: Send Feedback/Bug Report
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2529582453952512
+    m_Localized: Return to main menu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

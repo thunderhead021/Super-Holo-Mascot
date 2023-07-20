@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf7f1028bfea564ba70d5f5a385af97, type: 3}
+  m_Name: Arurandeisu's watch
+  m_EditorClassIdentifier: 
+  id: 8
+  itemName: Arurandeisu's watch
+  tier: 5
+  art: {fileID: 21300000, guid: 663619c3a8e9cae4eaded6cb8c139abf, type: 3}
+  description: Give all mascot +1 ATK
+  cost: 3
+  type: 2
+  credit: https://twitter.com/lalalalack
+  atkBuff: 0
+  hpBuff: 0
+  effect: {fileID: 0}
+  effectType: 0
+  passiveType: 0
+  triggerType: 1
+  triggerSkill: {fileID: 986207157395316024, guid: 64e1fead2855b5b4b8cfee2d3a64c0ce,
+    type: 3}

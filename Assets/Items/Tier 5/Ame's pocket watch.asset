@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf7f1028bfea564ba70d5f5a385af97, type: 3}
+  m_Name: Ame's pocket watch
+  m_EditorClassIdentifier: 
+  id: 14
+  itemName: Ame's pocket watch
+  tier: 5
+  art: {fileID: 21300000, guid: 2cf39305ae8b9624887de58ba2c8d5eb, type: 3}
+  description: Come back as a 1/1 after fainting
+  cost: 3
+  type: 1
+  credit: https://twitter.com/aoinabi
+  atkBuff: 0
+  hpBuff: 0
+  effect: {fileID: 2100000, guid: c8c148136b0ea1a4e9bfe2f3b8da0080, type: 2}
+  effectType: 0
+  passiveType: 0
+  triggerType: 0
+  triggerSkill: {fileID: 0}

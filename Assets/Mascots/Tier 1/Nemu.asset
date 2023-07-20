@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Nemu
+  m_EditorClassIdentifier: 
+  id: 35
+  mascotName: Nemu
+  tier: 1
+  description: 'Sell: Replace item shop @@@ (1) with 1 free apple that gives +1 ATK
+    and HP @@@ (2) with 2 free apple that gives +1 ATK and HP @@@ (3) with 2 free
+    apple that gives +2 ATK and HP'
+  playerArt: {fileID: 21300000, guid: d3bef91606319c84f9eb189d2ff75112, type: 3}
+  opoArt: {fileID: 21300000, guid: 02c1258d93f554b45a75e86c90534b0c, type: 3}
+  hp: 1
+  atk: 2
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 1446848555076893655, guid: 1f690791560c80f4392bfd9d69e81b2e, type: 3}
+  credit: https://twitter.com/asagi_0398

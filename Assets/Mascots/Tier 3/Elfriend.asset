@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Elfriend
+  m_EditorClassIdentifier: 
+  id: 13
+  mascotName: Elfriend
+  tier: 3
+  description: 'Ally leveled up: Give it +2/4/6 ATK and HP'
+  playerArt: {fileID: 21300000, guid: 9583df32b98caf34196f2b32bab18532, type: 3}
+  opoArt: {fileID: 21300000, guid: 72879bbd93fc3ce439fe4d9098370142, type: 3}
+  hp: 3
+  atk: 2
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 4289951379048198437, guid: b97d66bdcd5a9c24f96cbf752998b607, type: 3}
+  credit: https://twitter.com/0w0_nyaaa

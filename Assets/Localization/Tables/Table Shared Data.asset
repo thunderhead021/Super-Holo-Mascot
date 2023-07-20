@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Table
+  m_TableCollectionNameGuidString: 6c828a9d5c830644c89dda7e12db84ce
+  m_Entries:
+  - m_Id: 134785601536
+    m_Key: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21956776235008
+    m_Key: Number of friendly members
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22016209522688
+    m_Key: Cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22056181239808
+    m_Key: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22101886570496
+    m_Key: take 3 additional damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22148485287936
+    m_Key: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22184166232064
+    m_Key: Add new effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22241829523456
+    m_Key: Faint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22289489399808
+    m_Key: Start of battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22329402396672
+    m_Key: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27702322597888
+    m_Key: Block damage once
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31298137165824
+    m_Key: To Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31357142634496
+    m_Key: Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31459429126144
+    m_Key: Tiers unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32463084130304
+    m_Key: Can't refresh with everything frozen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32496072331264
+    m_Key: Not enough SC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32573331410944
+    m_Key: free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32610845265920
+    m_Key: Need at least 1 mascot to start the battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800745009516544
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800801343213568
+    m_Key: Database
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123378175479808
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2529391516651520
+    m_Key: Fb/Br
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2529582453952512
+    m_Key: Main menu
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663248018516

@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Mascot and Item_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 348d981f64237ef47b2746ece7d79f99, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 148131876864
+    m_Localized: 'Before ATK: Deal 1 damage to the ally behind. Repeat 1/2/3 times'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170575597568
+    m_Localized: 'Faint: Give a random ally +2/4/6 ATK and +1/2/3 HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204176166912
+    m_Localized: 'Leveled up: Give all allies +1/2 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249789222912
+    m_Localized: 'Faint: Summon a (1/1)/(2/2)/(3/3)  Haaton''s head'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273000501248
+    m_Localized: 'Sell: Give a random Secret Society member +1/2/3 ATK and +2/4/6
+      HP  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305699295232
+    m_Localized: 'Start of battle: Gain +1/2/3 ATK and HP per ally with Faint ability'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353673744384
+    m_Localized: 'Sell: Your next 1/2/3 roll(s) is(are) free'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390491344896
+    m_Localized: 'Sell: Summon 1/2/3 Nekko token'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451543633920
+    m_Localized: 'Sell: Replace item shop @@@ (1) with 1 free apple that gives +1
+      ATK and HP @@@ (2) with 2 free apple that gives +1 ATK and HP @@@ (3) with
+      2 free apple that gives +2 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489439170560
+    m_Localized: 'Start of battle: Deal 1 damage to 1/2/3 random enemies'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8434126229504
+    m_Localized: 'Buy: Copy 50%/100%/150% HP of the ally with the most HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8466695000064
+    m_Localized: 'Start of battle: If Gloom is on your team, combine into a slot
+      with @@@ (both level 1 or above) 100% combined ATK and HP @@@ (both level 2
+      or above) receive an item effect (choose randomly from both half) @@@ (both
+      level 3) gain Faint: separate the two half with 30% of their HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486051713024
+    m_Localized: 'Start of battle: Give 50%/100%/150% of its ATK and HP to the ally
+      ahead, then faint'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8519354486784
+    m_Localized: 'Start of shop: Discount a random frozen shop mascot by 1/2/3 SC'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8559225540608
+    m_Localized: 'Start of battle: If Bloom is on your team, combine into a slot
+      with @@@ (both level 1 or above) 100% combined ATK and HP @@@ (both level 2
+      or above) receive an item effect (choose randomly from both half) @@@ (both
+      level 3) gain Faint: separate the two half with 30% of their HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578234126336
+    m_Localized: 'Start of battle: Deal 2/4/6 damage for each friendly Secret Society
+      member to an enemy'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8606054944768
+    m_Localized: 'Start of shop: Gain 1/2/3 SC '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8633464721408
+    m_Localized: 'Start of battle: Apply chaos effect to 1/2/3 enemies @@@  @@@ Chaos
+      effect: take 3 additional damage'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8658768957440
+    m_Localized: 'Before ATK: When NEKO is the only member left from its side, gain
+      50%/100%/150% of its ATK'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8687793541120
+    m_Localized: 'Faint: Deal 2/4/6 damage to all'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713919860736
+    m_Localized: 'Faint: Give the two allies behind +1/2/3 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8765648211968
+    m_Localized: 'End of Battle: Each surviving ally (including self) gains +1/2/3
+      ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8786674257920
+    m_Localized: Ally summoned in shop received Bibi's held item effect. Works 1/2/3
+      time(s) per turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8849689481216
+    m_Localized: 'End of Battle: If this has the Secret Society badge, gain +1/2/3
+      ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8870384177152
+    m_Localized: 'Ally leveled up: Give it +2/4/6 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8899454898176
+    m_Localized: 'Hurt enemy: Gain 2/3/4 temporary HP (Max +20 HP per battle)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8931339997184
+    m_Localized: 'When the ally ahead receives lethal damage: @@@ (1) received the
+      damage in its stead @@@ (2) and half that damage  @@@ (3) and attack back'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8961853558784
+    m_Localized: 'End of Battle: Give 1/2/3 allies ahead +1 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8991637311488
+    m_Localized: 'Faint: Give 1/2/3 allies behind Shield @@@ Shield: Block damage
+      once'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9025149800448
+    m_Localized: 'Ally ahead faint: Gain Shield and +1/2/3 ATK @@@ Shield: Block
+      damage once'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9062382637056
+    m_Localized: 'Faint: Summon two (2/2)/(4/4)/(6/6) Takodachi token'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118967992320
+    m_Localized: '(1)(2) Start of shop: Gain 1 Experience @@@ (3)Start of battle:
+      Transform into grow up Chungami  @@@  @@@ Grow up Chungami: Copy the stats
+      of the ally with the highest stats'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9149452193792
+    m_Localized: 'Start of battle: Deal damage equal to the sum of all allies'' levels
+      to 1/2/3 random enemies'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9166250381312
+    m_Localized: 'Receive damage: Damage received gets reduced by 20%/40%/60% (minimum
+      damage received: 1)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9195455320064
+    m_Localized: 'Faint: Summon 1/2/3 KFP employees with 1 HP and half of Kotori
+      ATK'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9239067693056
+    m_Localized: 'Receive item: Gain +1/2/3 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9253265412096
+    m_Localized: 'Knockout: Gain +(1/2/3 + number of friendly Secret Society members)
+      ATK and HP '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9278737420288
+    m_Localized: 'Buy: Give adjacent allies +1/2/3 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9304360423424
+    m_Localized: 'Splash attack: Attack the second enemy with the extra damage you
+      dealt to the first (only attack if there is excess damage) '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9331879251968
+    m_Localized: 'Start of battle: Push the first enemy 1/2/3 space back'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9364733235200
+    m_Localized: 'Faint: Give the ally behind +1/2/3 ATK, HP and Experience'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9410677641216
+    m_Localized: 'Ally summoned in shop: Give it +1/2/3 Experience except to other
+      Boros. Works 2 time(s) per round'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9438867558400
+    m_Localized: 'Any faint: gain +1/2/3 to ATK or HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9468491927552
+    m_Localized: 'End of Battle: Give all survived Secret Society members +1/2/3
+      ATK and +2/4/6 HP  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9501513682944
+    m_Localized: 'Ally faint: Summon a 4/8/12 ATK and HP Rose Knight in its place.
+      Works 3 times per phase.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9528248176640
+    m_Localized: Doubled/tripled/quadrupled effect of stats buff items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9558673657856
+    m_Localized: 'Before ATK: Attack the enemy first. Works 1/2/3 time(s) per turn.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9587136204800
+    m_Localized: 'Buy: Replace items shop with free nuts that give +1/2/3 ATK and
+      +2/4/6 HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9614885720064
+    m_Localized: 'Ally summoned: Give it +2/4/6 ATK and +3/6/9 HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9862861361152
+    m_Localized: 'Faint: Separate the Bloom and Gloom with 30% of their HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9655197175808
+    m_Localized: 'Receive item: Give the two random allies +1/2/3 ATK and HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9901801279488
+    m_Localized: Copy the stats of the ally with the highest stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18478536396800
+    m_Localized: Become a Secret Society member
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18556806303744
+    m_Localized: Make an ally faint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18594374684672
+    m_Localized: 'Start of shop: Gain +1 ATK'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18634904244224
+    m_Localized: Swap Attack and Health of a mascot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18669549195264
+    m_Localized: 'Start of shop: Gain +1 HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18698368258048
+    m_Localized: Take 2 less damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18741133381632
+    m_Localized: Give 2 random mascots +1 ATK and HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18765284184064
+    m_Localized: Attack has 50% chance to deal double damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18827057893376
+    m_Localized: Pull a random enemy to the front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18856116031488
+    m_Localized: 'Start of shop:  Gain +1 SC '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18884268199936
+    m_Localized: Give all current and future shop mascots +2 ATK and +1 HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18932628525056
+    m_Localized: Come back as a 1/1 after fainting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18966082293760
+    m_Localized: Give all mascot +1 ATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18999557033984
+    m_Localized: Summon a random mascot from the same tier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19031706374144
+    m_Localized: 'Give mascot splash attack @@@  @@@ Splash attack: Attack the second
+      enemy with the extra damage you dealt to the first (only attack if there is
+      excess damage) '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19051172139008
+    m_Localized: Health does not go under one, removed after taking damage
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

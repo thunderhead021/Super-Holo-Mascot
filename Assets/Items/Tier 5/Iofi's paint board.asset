@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf7f1028bfea564ba70d5f5a385af97, type: 3}
+  m_Name: Iofi's paint board
+  m_EditorClassIdentifier: 
+  id: 16
+  itemName: Iofi's paint board
+  tier: 5
+  art: {fileID: 21300000, guid: 504f15588cb7c0940b3df0e5c57cf9f2, type: 3}
+  description: Summon a random mascot from the same tier
+  cost: 3
+  type: 1
+  atkBuff: 0
+  hpBuff: 0
+  effect: {fileID: 2100000, guid: 18022336efc912143824505a5cd8c61e, type: 2}
+  effectType: 0
+  passiveType: 0
+  triggerType: 0
+  triggerSkill: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Miofa
+  m_EditorClassIdentifier: 
+  id: 12
+  mascotName: Miofa
+  tier: 1
+  description: 'Sell: Your next 1/2/3 rolls is are free'
+  playerArt: {fileID: 21300000, guid: 942b62dc302af264da29a513eb9bc6b6, type: 3}
+  opoArt: {fileID: 21300000, guid: 28e45a8f0b1efd547b97988a0fb41d51, type: 3}
+  hp: 3
+  atk: 2
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 2073285091830027401, guid: f649a17d56511c549bb0007bbf3dd496, type: 3}
+  credit: https://twitter.com/nononanameme

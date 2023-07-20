@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf7f1028bfea564ba70d5f5a385af97, type: 3}
+  m_Name: Izuru's guitar
+  m_EditorClassIdentifier: 
+  id: 19
+  itemName: Izuru's guitar
+  tier: 1
+  art: {fileID: 21300000, guid: b280b2722cd513a45b06bef1f992af7b, type: 3}
+  description: 
+  cost: 3
+  type: 0
+  credit: https://shop.hololivepro.com/en/products/holostars_halloween2021
+  atkBuff: 1
+  hpBuff: 1
+  effect: {fileID: 0}
+  effectType: 0
+  passiveType: 0
+  triggerType: 0
+  triggerSkill: {fileID: 0}

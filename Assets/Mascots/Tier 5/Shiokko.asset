@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Shiokko
+  m_EditorClassIdentifier: 
+  id: 7
+  mascotName: Shiokko
+  tier: 5
+  description: 'Ally summoned: Give it +2/4/6 ATK and +3/6/9 HP'
+  playerArt: {fileID: 21300000, guid: 795f7f3cd74772a4a9a93be559e6b1f7, type: 3}
+  opoArt: {fileID: 21300000, guid: 8af64403fb6eae141bf4d352f68af71e, type: 3}
+  hp: 4
+  atk: 3
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 7453783550932930308, guid: 63c342409b115404dac0e8251c4c4a1c, type: 3}
+  credit: https://twitter.com/M_uu418

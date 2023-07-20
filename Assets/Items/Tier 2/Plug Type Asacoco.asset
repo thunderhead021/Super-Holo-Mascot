@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf7f1028bfea564ba70d5f5a385af97, type: 3}
+  m_Name: Plug Type Asacoco
+  m_EditorClassIdentifier: 
+  id: 15
+  itemName: Plug Type Asacoco
+  tier: 2
+  art: {fileID: 21300000, guid: 5924db9aed8cda348a5d34329ae313f0, type: 3}
+  description: Make an ally faint
+  cost: 1
+  type: 2
+  atkBuff: 0
+  hpBuff: 0
+  effect: {fileID: 0}
+  effectType: 0
+  passiveType: 0
+  triggerType: 0
+  triggerSkill: {fileID: 5137843422511024755, guid: 069e65fc91fd0a8408a40729f01cd62f,
+    type: 3}

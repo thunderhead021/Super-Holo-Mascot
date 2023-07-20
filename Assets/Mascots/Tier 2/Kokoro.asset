@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Kokoro
+  m_EditorClassIdentifier: 
+  id: 23
+  mascotName: Kokoro
+  tier: 2
+  description: 'Start of battle: Deal 2/4/6 damage for each friendly Secret Society
+    member to an enemy'
+  playerArt: {fileID: 21300000, guid: fa57764195242aa44897f7f7472b6f20, type: 3}
+  opoArt: {fileID: 21300000, guid: a26f727e3ae98294caac4d35e19c23cc, type: 3}
+  hp: 3
+  atk: 1
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 174293371717872299, guid: 822d10d23d7f75e4180537fbcc58485c, type: 3}
+  credit: https://shop.hololivepro.com/en/products/hakuikoyori_hd2022

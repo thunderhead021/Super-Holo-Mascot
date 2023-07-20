@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5827474896363144505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4119551171343594583}
+  - component: {fileID: 4775060890646721236}
+  m_Layer: 0
+  m_Name: Gloom Skill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4119551171343594583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5827474896363144505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4775060890646721236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5827474896363144505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7c746b73f6670c488366d8384d0c2c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 0
+  gameManager: {fileID: 0}
+  mascot: {fileID: 0}
+  Token: {fileID: 0}
+  otherHalf: {fileID: 11400000, guid: 8aabc4f3bec8f3846bcde5abdf6ca1f4, type: 2}
+  BloomAndGloomv1: {fileID: 11400000, guid: 5b50a1e1763128c4cb886d8cec36e60c, type: 2}
+  BloomAndGloomv2: {fileID: 11400000, guid: dd86a1136a7558b4ca43c6447e755544, type: 2}

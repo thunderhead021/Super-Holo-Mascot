@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Nousagi
+  m_EditorClassIdentifier: 
+  id: 14
+  mascotName: Nousagi
+  tier: 5
+  description: Doubled/tripled/quadrupled effect of stats buff items
+  playerArt: {fileID: 21300000, guid: c76ff0e2f3241b84cb057c9c387d96cb, type: 3}
+  opoArt: {fileID: 21300000, guid: cd32b96ad66f9c14aab95e6221c6c0b2, type: 3}
+  hp: 5
+  atk: 4
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 234605194748605481, guid: 7a4b57cd87585524cbbe39d05550e355, type: 3}
+  credit: https://twitter.com/kuuuu

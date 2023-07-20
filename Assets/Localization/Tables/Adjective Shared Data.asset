@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Adjective Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Adjective
+  m_TableCollectionNameGuidString: 14b409f9ebd717d40828592651878b13
+  m_Entries:
+  - m_Id: 71782961152
+    m_Key: adventurous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96042815488
+    m_Key: affectionate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119447031808
+    m_Key: ambitious
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143065157632
+    m_Key: brave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166876221440
+    m_Key: chatty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189483520000
+    m_Key: cheerful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201437286400
+    m_Key: confident
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234496790528
+    m_Key: creative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 285688270848
+    m_Key: determined
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324414279680
+    m_Key: easy-going
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368471248896
+    m_Key: enthusiastic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391657361408
+    m_Key: frank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410535923712
+    m_Key: friendly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429871665152
+    m_Key: funny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 457017200640
+    m_Key: generous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490068316160
+    m_Key: hard-working
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510171615232
+    m_Key: helpful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529117286400
+    m_Key: honest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 554480242688
+    m_Key: imaginative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576508727296
+    m_Key: intelligent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 596377145344
+    m_Key: kind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619085107200
+    m_Key: loyal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640346034176
+    m_Key: meticulous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659719524352
+    m_Key: modest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682666561536
+    m_Key: optimistic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704359501824
+    m_Key: outgoing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729118478336
+    m_Key: patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752161984512
+    m_Key: reliable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773536157696
+    m_Key: sensible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795417841664
+    m_Key: sensitive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 815621804032
+    m_Key: sincere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 834185793536
+    m_Key: sociable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854754660352
+    m_Key: sympathetic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 872802750464
+    m_Key: thoughtful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 892717305856
+    m_Key: trustworthy
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663257997598

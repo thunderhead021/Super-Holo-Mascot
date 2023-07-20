@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Boros
+  m_EditorClassIdentifier: 
+  id: 44
+  mascotName: Boros
+  tier: 5
+  description: 'Ally summoned in shop: Give it +1/2/3 Experience except to other
+    Boros. Works 2 time(s) per round'
+  playerArt: {fileID: 21300000, guid: 15047359817bf994ca8c36a7a06c3866, type: 3}
+  opoArt: {fileID: 21300000, guid: b0e2385ac60dc39459c5a2d7f98bb599, type: 3}
+  hp: 9
+  atk: 4
+  timeUseSkill: 2
+  cost: 3
+  skill: {fileID: 4519540718541261446, guid: 6df1e913600557f47863a70bea3b38ca, type: 3}
+  credit: https://twitter.com/tsubuanfes

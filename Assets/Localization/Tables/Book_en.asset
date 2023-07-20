@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Book_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3981a3981eae62f4b8f76da4bf331213, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2056666025984
+    m_Localized: Items list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2105659691008
+    m_Localized: Mascots list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3412084723712
+    m_Localized: Show all available items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3492321759232
+    m_Localized: Show all available mascots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400662304722944
+    m_Localized: (Obtain from Nekko)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403195731447808
+    m_Localized: (Obtain from Kotori)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403734347190272
+    m_Localized: "(1)(2) Start of shop: Gain 1 Experience \n(3) Start of battle:
+      Transform into grow up Chungami"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 591189318897664
+    m_Localized: (the effect is only active at level 3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 597941011681280
+    m_Localized: (Obtain from Haaton)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598005826260992
+    m_Localized: (Obtain from Jobz)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598098960781312
+    m_Localized: (Obtain from Takodachi)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604734395846656
+    m_Localized: '+1/2 Attack
+
+      +1/2 Health'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

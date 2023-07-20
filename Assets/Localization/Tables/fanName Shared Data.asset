@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: fanName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: fanName
+  m_TableCollectionNameGuidString: db3ee342d1a468340baf435c20261b3e
+  m_Entries:
+  - m_Id: 23326167040
+    m_Key: Kapumin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46776520704
+    m_Key: Friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67018231808
+    m_Key: Matsurisu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87629041664
+    m_Key: Rosetai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106964783104
+    m_Key: Haaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135020482560
+    m_Key: Aqua Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158533750784
+    m_Key: Shiokko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177097740288
+    m_Key: Nakirigumi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186803359744
+    m_Key: Choco Mate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233360134144
+    m_Key: Subatomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255371841536
+    m_Key: Miofam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276754403328
+    m_Key: Onigiri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301001674752
+    m_Key: Koronesuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322916913152
+    m_Key: Nousagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340918865920
+    m_Key: Elfriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363551330304
+    m_Key: Kishidan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385139412992
+    m_Key: Ichimi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403665653760
+    m_Key: Heimin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412092010496
+    m_Key: Watamate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444602060800
+    m_Key: Kenzoku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 462826311680
+    m_Key: Luknight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 480987648000
+    m_Key: Yukimin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498557587456
+    m_Key: Nekko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517545201664
+    m_Key: SSRB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 535966584832
+    m_Key: Plusmate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 563615436800
+    m_Key: Lui tomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584725368832
+    m_Key: Assistant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604048527360
+    m_Key: Shiikuin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 623363297280
+    m_Key: Kazamatai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640903876608
+    m_Key: Risuner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658792583168
+    m_Key: Moonafic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676677095424
+    m_Key: IOFORIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694695825408
+    m_Key: Zomrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 711007473664
+    m_Key: Melfriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728078290944
+    m_Key: Tatsunoko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745644036096
+    m_Key: MERAKyat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763255918592
+    m_Key: Zecretary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771497725952
+    m_Key: Pemaloe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789726171136
+    m_Key: Koboker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830914236416
+    m_Key: Dead Beat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 849759244288
+    m_Key: KFP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866456768512
+    m_Key: Takodachi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 885767344128
+    m_Key: Chumbud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 902867521536
+    m_Key: Teamate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 919531491328
+    m_Key: IRyStocrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 937109819392
+    m_Key: Sapling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 952679075840
+    m_Key: Kronie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 970462924800
+    m_Key: Hooman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986812321792
+    m_Key: Baerat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001844707328
+    m_Key: Sanallite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054193815552
+    m_Key: Hanamigumi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1073177235456
+    m_Key: Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090466156544
+    m_Key: Familiaran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1109990641664
+    m_Key: Tuner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1129263468544
+    m_Key: Astella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155926659072
+    m_Key: Kishimen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1188872916992
+    m_Key: Regular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1210335170560
+    m_Key: Subordinate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229360533504
+    m_Key: OMAEsan
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663258765113

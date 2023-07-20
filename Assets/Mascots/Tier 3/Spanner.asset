@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Spanner
+  m_EditorClassIdentifier: 
+  id: 46
+  mascotName: Spanner
+  tier: 3
+  description: 'Ally ahead faint: Gain Shield and +1/2/3 ATK @@@ Shield: Block damage
+    once'
+  playerArt: {fileID: 21300000, guid: f586f7413aa51d94d91f5180083c5b05, type: 3}
+  opoArt: {fileID: 21300000, guid: 6e504a397f022a9488b6ba03b6d76dbc, type: 3}
+  hp: 3
+  atk: 1
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 1980343946100979992, guid: 65ac4843994ab454b98e704846a75aba, type: 3}
+  credit: https://shop.hololivepro.com/en/products/rikka_an2nd

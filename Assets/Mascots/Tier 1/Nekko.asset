@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691e9754972e0c54e99ad1fb00f64c2d, type: 3}
+  m_Name: Nekko
+  m_EditorClassIdentifier: 
+  id: 20
+  mascotName: Nekko
+  tier: 1
+  description: 'Sell: Summon 1/2/3 Nekko token'
+  playerArt: {fileID: 21300000, guid: f2cf24e30adbea44697a82ac182b320b, type: 3}
+  opoArt: {fileID: 21300000, guid: c31df7dc4807821419ad360014f4595a, type: 3}
+  hp: 2
+  atk: 2
+  timeUseSkill: 0
+  cost: 3
+  skill: {fileID: 5680023438069666598, guid: 4d3a96c10cec44644bc2196c89fafe27, type: 3}
+  credit: https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA

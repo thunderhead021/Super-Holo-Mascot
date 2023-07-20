@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Mascot and Item Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Mascot and Item
+  m_TableCollectionNameGuidString: 348d981f64237ef47b2746ece7d79f99
+  m_Entries:
+  - m_Id: 148131876864
+    m_Key: 35P
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170575597568
+    m_Key: Ebifrion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204176166912
+    m_Key: Friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249789222912
+    m_Key: Haaton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273000501248
+    m_Key: Inu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305699295232
+    m_Key: Kyomu Suzume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353673744384
+    m_Key: Miofa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390491344896
+    m_Key: Nekko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451543633920
+    m_Key: Nemu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489439170560
+    m_Key: Udin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8434126229504
+    m_Key: Bazo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8466695000064
+    m_Key: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486051713024
+    m_Key: Bloop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8519354486784
+    m_Key: Daifuku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8559225540608
+    m_Key: Gloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578234126336
+    m_Key: Kokoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8606054944768
+    m_Key: Kotatsu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8633464721408
+    m_Key: Mr Squeaks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8658768957440
+    m_Key: NEKO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8687793541120
+    m_Key: SSRB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8713919860736
+    m_Key: Su-Corn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8765648211968
+    m_Key: Ankimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8786674257920
+    m_Key: Bibi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8849689481216
+    m_Key: Crow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8870384177152
+    m_Key: Elfriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8899454898176
+    m_Key: Kapu-min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8931339997184
+    m_Key: Lu-knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8961853558784
+    m_Key: Nekoyama Shien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8991637311488
+    m_Key: Robosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9025149800448
+    m_Key: Spanner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9062382637056
+    m_Key: Takodachi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9118967992320
+    m_Key: Chungami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9149452193792
+    m_Key: Hiyamaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9166250381312
+    m_Key: Koronesuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9195455320064
+    m_Key: Kotori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9239067693056
+    m_Key: Onigiryaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9253265412096
+    m_Key: Pokobee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9278737420288
+    m_Key: Poruneu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9304360423424
+    m_Key: Sanallite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9331879251968
+    m_Key: Subaduck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9364733235200
+    m_Key: Wata-mate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9410677641216
+    m_Key: Boros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9438867558400
+    m_Key: Death Sensei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9468491927552
+    m_Key: Ganmo, Tsumire & Tsukune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9501513682944
+    m_Key: Jobz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9528248176640
+    m_Key: Nousagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9558673657856
+    m_Key: Poyoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9587136204800
+    m_Key: Riscot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9614885720064
+    m_Key: Shiokko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9655197175808
+    m_Key: Zain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9862861361152
+    m_Key: Bloom & Gloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9901801279488
+    m_Key: Grow up Chungami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18478536396800
+    m_Key: Secret Society member badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18556806303744
+    m_Key: Plug Type Asacoco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18594374684672
+    m_Key: Royaltea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18634904244224
+    m_Key: Gamma's fountain pen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18669549195264
+    m_Key: Kobo's umbrella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18698368258048
+    m_Key: Rio's spirit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18741133381632
+    m_Key: ROBEL's famous cocktail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18765284184064
+    m_Key: Anya's Keris form
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18827057893376
+    m_Key: AZKi's hairclip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18856116031488
+    m_Key: Dokuro-kun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18884268199936
+    m_Key: Kaela's forge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18932628525056
+    m_Key: Ame's pocket watch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18966082293760
+    m_Key: Arurandeisu's watch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18999557033984
+    m_Key: Iofi's paint board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19031706374144
+    m_Key: Moona's necklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19051172139008
+    m_Key: Utsugi Uyu's boots
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663249983149
